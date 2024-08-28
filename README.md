@@ -38,4 +38,6 @@ Webpack/Babel: These tools bundle and transpile modern JavaScript, ensuring comp
 SCSS: A CSS preprocessor that allows for more maintainable and reusable styles, providing a cleaner and more organized approach to styling.
 
 
+
+
 This combination of technologies allows the AI Companion to be a fast, responsive, and intelligent assistant, offering a seamless and engaging user experience directly in the browser.
