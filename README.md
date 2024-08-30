@@ -22,7 +22,7 @@ AI and Machine Learning:
 
 TensorFlow.js: A JavaScript library that brings machine learning to the browser, enabling real-time AI interactions such as natural language processing or predictive models.
 
-OpenAI API: Likely used for advanced AI capabilities, like generating human-like text or responses, enabling more sophisticated interactions.
+OpenAI API: Used for advanced AI capabilities, like generating human-like text or responses, enabling more sophisticated interactions.
 
 Database and Data Management:
 
