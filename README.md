@@ -1,6 +1,6 @@
 # AI-Companion
 
-Welcome to my AI Companion, a digital assistant crafted with cutting-edge technologies to enhance your online interactions. This site is powered by React for a dynamic user interface and Node.js with Express on the backend to handle requests and responses efficiently. The AI capabilities are driven by TensorFlow.js, enabling real-time, intelligent interactions directly in your browser.
+Welcome to my AI Companion, a digital assistant crafted with cutting-edge technologies to enhance your online interactions. This app is powered by React for a dynamic user interface and Node.js with Express on the backend to handle requests and responses efficiently. The AI capabilities are driven by TensorFlow.js, enabling real-time, intelligent interactions directly in your browser.
 
 Here’s a detailed breakdown of the technologies used to build the AI Companion:
 
