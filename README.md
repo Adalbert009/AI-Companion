@@ -40,4 +40,4 @@ SCSS: A CSS preprocessor that allows for more maintainable and reusable styles, 
 
 
 
-This combination of technologies allows the AI Companion to be a fast, responsive, and intelligent assistant, offering a seamless and engaging user experience directly in the browser.
+This combination of technologies allows the AI Companion to be a fast, responsive and intelligent assistant, offering a seamless and engaging user experience directly in the browser.
